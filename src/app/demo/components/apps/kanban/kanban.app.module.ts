@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { DragDropModule } from '@angular/cdk/drag-drop';
 import { KanbanAppRoutingModule } from './kanban.app-routing.module';
 import { KanbanAppComponent } from './kanban.app.component';
 import { KanbanListComponent } from './kanban-list/kanban-list.component';
